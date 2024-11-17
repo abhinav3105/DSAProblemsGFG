@@ -19,10 +19,13 @@ public class Main {
                 System.out.print(arr[i] + " ");
             }
             System.out.println();
+            System.out.println("~");
         }
     }
 }
 // } Driver Code Ends
+
+
 
 
 class Solution {
